@@ -4,3 +4,4 @@ This project makes use of the durable-rules module of python to create a career 
 
 You can read more about the durable-rules module [here](https://github.com/jruizgit/rules)
 
+You can find sample runs of the ipynb file in the report attached in the repository.
