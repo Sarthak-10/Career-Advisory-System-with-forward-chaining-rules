@@ -1,6 +1,6 @@
 # Career-Advisory-System-with-forward-chaining-rules
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](Colab_demo.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](Forward_Chaining.ipynb)
 
 :star:**Please star the repository if you happen to like the project**
 
