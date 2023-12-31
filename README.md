@@ -1,5 +1,9 @@
 # Career-Advisory-System-with-forward-chaining-rules
 
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](Colab_demo.ipynb)
+
+:star:**Please star the repository if you happen to like the project**
+
 This project makes use of the durable-rules module of python to create a career advisory system. The career advisory system uses forward chaining rules to advise the best careers for the individual.
 
 You can read more about the durable-rules module [here](https://github.com/jruizgit/rules)
